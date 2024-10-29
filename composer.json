@@ -1,0 +1,27 @@
+{
+  "name": "idomit/advanced-easy-shipping-for-woocommerce",
+  "description": "Advanced Easy Shipping For WooCommerce",
+  "authors": [
+    {
+      "name": "idomit",
+      "email": "idomit@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {},
+  "require-dev": {
+     "woocommerce/woocommerce-sniffs": "^0.1.2"
+  },
+  "scripts": {
+    "install-hooks": ["sh ./contrib/setup.sh"],
+    "post-install-cmd": ["@install-hooks"],
+    "post-update-cmd": ["@install-hooks"],
+    "lint-php": "vendor/bin/phpcs -s",
+    "lint-php-fix": "vendor/bin/phpcbf",
+    "lint-js": "grunt jsvalidate jshint",
+    "lint-css": "grunt stylelint",
+    "lint": ["@lint-php", "@lint-js", "@lint-css"]
+  }
+}

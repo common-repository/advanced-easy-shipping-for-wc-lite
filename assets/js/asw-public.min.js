@@ -1,0 +1,1 @@
+!function(n){"use strict";n(document).ready(function(){n("body").on("change",'input[name="payment_method"]',function(){n("body").trigger("update_checkout")})})}(jQuery);

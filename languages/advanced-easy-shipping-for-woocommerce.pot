@@ -1,0 +1,1251 @@
+# Copyright (C) 2022 idomit
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Easy Shipping For WooCommerce 3.0.9\n"
+"Report-Msgid-Bugs-To: https://www.idomit.com/contact/\n"
+"POT-Creation-Date: 2022-10-13 16:10:03+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: idomit <idomit@gmail.com>\n"
+"Language-Team: idomit <idomit@gmail.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: advanced-easy-shipping-for-woocommerce.php:151
+msgid "Settings"
+msgstr ""
+
+#: advanced-easy-shipping-for-woocommerce.php:156
+msgid "Help"
+msgstr ""
+
+#: includes/class-asw-admin.php:151 includes/class-asw-admin.php:152
+msgid "Easy Shipping Method"
+msgstr ""
+
+#: includes/class-asw-admin.php:170
+msgid "Dashboard"
+msgstr ""
+
+#: includes/class-asw-admin.php:171
+msgid "Shipping Setting"
+msgstr ""
+
+#: includes/class-asw-admin.php:172
+#: includes/class-asw-shipping-method-setting.php:423
+msgid "Shipping Listing"
+msgstr ""
+
+#: includes/class-asw-admin.php:173
+msgid "Free vs Premium"
+msgstr ""
+
+#: includes/class-asw-admin.php:372
+msgid "Try Our WordPress Products"
+msgstr ""
+
+#: includes/class-asw-admin.php:377 includes/class-asw-admin.php:383
+msgid "WooCommerce Advanced Extra Fees"
+msgstr ""
+
+#: includes/class-asw-admin.php:389
+msgid ""
+"WooCommerce Advanced Extra Fees is the fastest and easiest WooCommerce "
+"extra fees plugin with breakthrough performance. Everything works on a fast "
+"and easy. Feel no delay – because your time is precious!"
+msgstr ""
+
+#: includes/class-asw-admin.php:396 settings/asw-dashboard.php:44
+#: settings/asw-free-pro-section.php:387
+msgid "Buy Premium"
+msgstr ""
+
+#: includes/class-asw-admin.php:541
+msgid "Shipping method successfully created."
+msgstr ""
+
+#: includes/class-asw-admin.php:543
+msgid "Shipping method successfully updated."
+msgstr ""
+
+#: includes/class-asw-admin.php:545
+msgid "Shipping method deleted."
+msgstr ""
+
+#: includes/class-asw-admin.php:547
+msgid "Shipping method duplicated."
+msgstr ""
+
+#: includes/class-asw-admin.php:549
+msgid "Shipping method disabled."
+msgstr ""
+
+#: includes/class-asw-admin.php:551
+msgid "Shipping method enabled."
+msgstr ""
+
+#: includes/class-asw-admin.php:554
+msgid "There was an error with saving data."
+msgstr ""
+
+#: includes/class-asw-admin.php:556 includes/class-asw-admin.php:566
+msgid "There was an error with security check."
+msgstr ""
+
+#: includes/class-asw-admin.php:563
+msgid "Settings save successfully"
+msgstr ""
+
+#: includes/class-asw-admin.php:871 includes/class-asw-admin.php:895
+msgid "Contains Simple Subscription"
+msgstr ""
+
+#: includes/class-asw-admin.php:872 includes/class-asw-admin.php:896
+msgid "Contains Variable Subscription"
+msgstr ""
+
+#: includes/class-asw-admin.php:877 includes/class-asw-admin.php:899
+msgid "Contains Bundle Product"
+msgstr ""
+
+#: includes/class-asw-admin.php:940 includes/class-asw-admin.php:941
+msgid "Select Subscription Products"
+msgstr ""
+
+#: includes/class-asw-admin.php:942 includes/class-asw-admin.php:943
+msgid "Select Variation Subscription Products"
+msgstr ""
+
+#: includes/class-asw-admin.php:946 includes/class-asw-admin.php:947
+msgid "Select Bundle Products"
+msgstr ""
+
+#: includes/class-asw-shipping-method-setting.php:345
+msgid "Error saving shipping method."
+msgstr ""
+
+#: includes/class-asw-shipping-method-setting.php:450
+msgid "Search results for "
+msgstr ""
+
+#: includes/class-asw-shipping-method-setting.php:459
+msgid "Search Shipping Method"
+msgstr ""
+
+#: includes/class-asw-shipping-method-setting.php:526
+msgid "Based on Cart"
+msgstr ""
+
+#: includes/class-asw-shipping-method-setting.php:528
+msgid ""
+"In this option, you can apply shipping based on simple product, variable "
+"product, categories, tags and skus."
+msgstr ""
+
+#: includes/class-asw-shipping-method-setting.php:759
+msgid "Based on Location"
+msgstr ""
+
+#: includes/class-asw-shipping-method-setting.php:761
+msgid ""
+"In this option, you can apply shipping based on location - Country, State, "
+"City, Postcode and Zone wise."
+msgstr ""
+
+#: includes/class-asw-shipping-method-setting.php:1050
+msgid "Based on Cart Specific"
+msgstr ""
+
+#: includes/class-asw-shipping-method-setting.php:1052
+msgid ""
+"In this option, you can apply shipping based on total cart qty, weight, "
+"height, width, coupon, shipping class, subtotal with inc. tax, subtotal "
+"with ex. tax and subtotal after coupon applied."
+msgstr ""
+
+#: includes/class-asw-shipping-method-setting.php:1232
+msgid "Based on Checkout Specific"
+msgstr ""
+
+#: includes/class-asw-shipping-method-setting.php:1234
+msgid "In this option, you can apply shipping based on checkout"
+msgstr ""
+
+#: includes/class-asw-shipping-method-setting.php:1328
+#: includes/class-asw-shipping-method-setting.php:1337
+msgid "Available in Pro"
+msgstr ""
+
+#: includes/class-asw-shipping-method-setting.php:1370
+msgid "Based on user"
+msgstr ""
+
+#: includes/class-asw-shipping-method-setting.php:1372
+msgid "In this option, you can apply shipping based on user and user role."
+msgstr ""
+
+#: includes/class-asw-shipping-method-setting.php:1539
+msgid "Extra Shipping Price"
+msgstr ""
+
+#: includes/class-asw-shipping-method-setting.php:1541
+msgid ""
+"In this option, you can apply additional shipping cost with apply per qty, "
+"weight, width, height and length and also apply additional cost based on "
+"min and max value."
+msgstr ""
+
+#: includes/class-asw-shipping-method-setting.php:1635
+#: includes/class-asw-shipping-method-setting.php:1701
+#: includes/class-asw-shipping-method-setting.php:1716
+msgid "Total Cart"
+msgstr ""
+
+#: includes/class-asw-shipping-method-setting.php:1728
+msgid "Cost Per"
+msgstr ""
+
+#: includes/class-asw-shipping-method-setting.php:1735
+#: includes/class-asw-shipping-method-setting.php:1737
+msgid "Each"
+msgstr ""
+
+#: includes/class-asw-shipping-method-setting.php:1743
+msgid "qty"
+msgstr ""
+
+#: includes/class-asw-shipping-method-table.php:79
+msgid "Shipping name"
+msgstr ""
+
+#: includes/class-asw-shipping-method-table.php:80
+msgid "Amount"
+msgstr ""
+
+#: includes/class-asw-shipping-method-table.php:81
+#: settings/asw-shipping-settings.php:250
+msgid "Taxable"
+msgstr ""
+
+#: includes/class-asw-shipping-method-table.php:82
+msgid "Status"
+msgstr ""
+
+#: includes/class-asw-shipping-method-table.php:83
+msgid "Date"
+msgstr ""
+
+#: includes/class-asw-shipping-method-table.php:176
+msgid "No shipping method found."
+msgstr ""
+
+#: includes/class-asw-shipping-method-table.php:234
+msgid "Edit"
+msgstr ""
+
+#: includes/class-asw-shipping-method-table.php:235
+#: includes/class-asw-shipping-method-table.php:332
+msgid "Delete"
+msgstr ""
+
+#: includes/class-asw-shipping-method-table.php:236
+msgid "Duplicate"
+msgstr ""
+
+#: includes/class-asw-shipping-method-table.php:249
+#: includes/class-asw-shipping-method-table.php:278
+#: includes/class-asw-shipping-method-table.php:299
+#: includes/class-asw-shipping-method-table.php:318
+msgid "Everywhere"
+msgstr ""
+
+#: includes/class-asw-shipping-method-table.php:330
+msgid "Disable"
+msgstr ""
+
+#: includes/class-asw-shipping-method-table.php:331
+msgid "Enable"
+msgstr ""
+
+#: public/class-asw-shipping-method.php:26
+#: public/class-asw-shipping-method.php:27
+msgid "Advanced Easy Shipping"
+msgstr ""
+
+#: public/class-asw-shipping-method.php:28
+msgid "Configure WooCommerce Advanced Easy Shipping"
+msgstr ""
+
+#: public/class-asw-shipping-method.php:230
+#: public/class-asw-shipping-method.php:263
+msgid "Shipping"
+msgstr ""
+
+#: settings/asw-common-function.php:69
+msgid "Contains Simple Product"
+msgstr ""
+
+#: settings/asw-common-function.php:70
+msgid "Contains Category"
+msgstr ""
+
+#: settings/asw-common-function.php:71
+msgid "Contains Tags"
+msgstr ""
+
+#: settings/asw-common-function.php:72
+msgid "Contains SKUs"
+msgstr ""
+
+#: settings/asw-common-function.php:73
+msgid "Contains Variable Product"
+msgstr ""
+
+#: settings/asw-common-function.php:93
+msgid "Contains Country"
+msgstr ""
+
+#: settings/asw-common-function.php:94
+msgid "Contains State"
+msgstr ""
+
+#: settings/asw-common-function.php:95
+msgid "Contains Zone"
+msgstr ""
+
+#: settings/asw-common-function.php:96
+msgid "Contains City"
+msgstr ""
+
+#: settings/asw-common-function.php:97
+msgid "Contains Postcode"
+msgstr ""
+
+#: settings/asw-common-function.php:117
+msgid "Total Cart Qty"
+msgstr ""
+
+#: settings/asw-common-function.php:118
+msgid "Cart Subtotal(After Coupon Discount)"
+msgstr ""
+
+#: settings/asw-common-function.php:119
+msgid "Total Cart Weight"
+msgstr ""
+
+#: settings/asw-common-function.php:120
+msgid "Total Cart Width"
+msgstr ""
+
+#: settings/asw-common-function.php:121
+msgid "Total Cart Height"
+msgstr ""
+
+#: settings/asw-common-function.php:122
+msgid "Total Cart Length"
+msgstr ""
+
+#: settings/asw-common-function.php:123
+msgid "Cart Subtotal With Ex. Tax"
+msgstr ""
+
+#: settings/asw-common-function.php:124
+msgid "Cart Subtotal With Inc. Tax"
+msgstr ""
+
+#: settings/asw-common-function.php:125
+msgid "Coupon"
+msgstr ""
+
+#: settings/asw-common-function.php:126
+msgid "Contains Shipping Class"
+msgstr ""
+
+#: settings/asw-common-function.php:146
+msgid "Payment Method"
+msgstr ""
+
+#: settings/asw-common-function.php:166
+msgid "User"
+msgstr ""
+
+#: settings/asw-common-function.php:167
+msgid "User Role"
+msgstr ""
+
+#: settings/asw-common-function.php:187
+msgid "Contain Total Cart"
+msgstr ""
+
+#: settings/asw-common-function.php:188
+msgid "Contain Simple Products"
+msgstr ""
+
+#: settings/asw-common-function.php:189
+msgid "Contain Variable Products"
+msgstr ""
+
+#: settings/asw-common-function.php:190
+msgid "Contain Category"
+msgstr ""
+
+#: settings/asw-common-function.php:191
+msgid "Contain Shipping Class"
+msgstr ""
+
+#: settings/asw-common-function.php:289
+msgid "Equal to"
+msgstr ""
+
+#: settings/asw-common-function.php:290
+msgid "Not equal to"
+msgstr ""
+
+#: settings/asw-common-function.php:293 settings/asw-common-function.php:299
+msgid "Less Then"
+msgstr ""
+
+#: settings/asw-common-function.php:294 settings/asw-common-function.php:300
+msgid "Less Then Equal To"
+msgstr ""
+
+#: settings/asw-common-function.php:295 settings/asw-common-function.php:301
+msgid "Greater Then"
+msgstr ""
+
+#: settings/asw-common-function.php:296 settings/asw-common-function.php:302
+msgid "Greater Then Equal to"
+msgstr ""
+
+#: settings/asw-common-function.php:317
+msgid "QTY"
+msgstr ""
+
+#: settings/asw-common-function.php:327
+msgid "Weight"
+msgstr ""
+
+#: settings/asw-common-function.php:328
+msgid "Width"
+msgstr ""
+
+#: settings/asw-common-function.php:329
+msgid "Height"
+msgstr ""
+
+#: settings/asw-common-function.php:330
+msgid "Length"
+msgstr ""
+
+#: settings/asw-common-function.php:351
+msgid "Items total with tax"
+msgstr ""
+
+#: settings/asw-common-function.php:352
+msgid "Items total without tax"
+msgstr ""
+
+#: settings/asw-common-function.php:372
+msgid "Subtotal with tax"
+msgstr ""
+
+#: settings/asw-common-function.php:373
+msgid "Subtotal with discount"
+msgstr ""
+
+#: settings/asw-common-function.php:374
+msgid "Subtotal without tax and discount"
+msgstr ""
+
+#: settings/asw-common-function.php:375
+msgid "Subtotal with tax and discount"
+msgstr ""
+
+#: settings/asw-common-function.php:510
+msgid "Select Countries"
+msgstr ""
+
+#: settings/asw-common-function.php:511
+msgid "Select States"
+msgstr ""
+
+#: settings/asw-common-function.php:512
+msgid "Select Zones"
+msgstr ""
+
+#: settings/asw-common-function.php:513 settings/asw-common-function.php:514
+msgid "Select Products"
+msgstr ""
+
+#: settings/asw-common-function.php:515 settings/asw-common-function.php:516
+msgid "Select Categories"
+msgstr ""
+
+#: settings/asw-common-function.php:517
+msgid "Select Tags"
+msgstr ""
+
+#: settings/asw-common-function.php:518
+msgid "Select SKUs"
+msgstr ""
+
+#: settings/asw-common-function.php:519 settings/asw-common-function.php:520
+msgid "Select Variable Products"
+msgstr ""
+
+#: settings/asw-common-function.php:521
+msgid "Select Coupons"
+msgstr ""
+
+#: settings/asw-common-function.php:522 settings/asw-common-function.php:523
+msgid "Select Shipping Classes"
+msgstr ""
+
+#: settings/asw-common-function.php:524
+msgid "Select Users By Username"
+msgstr ""
+
+#: settings/asw-common-function.php:525
+msgid "Select User Role"
+msgstr ""
+
+#: settings/asw-common-function.php:526
+msgid "Enter Total Cart Weight"
+msgstr ""
+
+#: settings/asw-common-function.php:527
+msgid "Enter Total Cart Width"
+msgstr ""
+
+#: settings/asw-common-function.php:528
+msgid "Enter Total Cart Quantity"
+msgstr ""
+
+#: settings/asw-common-function.php:529
+msgid "Enter Total Cart Height"
+msgstr ""
+
+#: settings/asw-common-function.php:530
+msgid "Enter Total Cart Length"
+msgstr ""
+
+#: settings/asw-common-function.php:531
+msgid "Enter Subtotal With Exclude Tax"
+msgstr ""
+
+#: settings/asw-common-function.php:532
+msgid "Enter Subtotal With Include Tax"
+msgstr ""
+
+#: settings/asw-common-function.php:533
+msgid "Enter Subtotal After Discount"
+msgstr ""
+
+#: settings/asw-common-function.php:534
+msgid "Enter City Name With Comma Separate"
+msgstr ""
+
+#: settings/asw-common-function.php:535
+msgid "Enter Postcode With Comma Separate"
+msgstr ""
+
+#: settings/asw-common-function.php:536
+msgid "Select Payment Method"
+msgstr ""
+
+#: settings/asw-common-function.php:730 settings/asw-common-function.php:736
+#: settings/asw-common-function.php:739 settings/asw-common-function.php:742
+#: settings/asw-free-pro-section.php:12
+msgid "Free"
+msgstr ""
+
+#: settings/asw-common-function.php:734 settings/asw-free-pro-section.php:19
+msgid "Premium"
+msgstr ""
+
+#: settings/asw-common-setting.php:56
+msgid "General Setting"
+msgstr ""
+
+#: settings/asw-common-setting.php:76
+msgid "Shipping Cost Type"
+msgstr ""
+
+#: settings/asw-common-setting.php:77
+msgid ""
+"You can display shipping cost with user selection cost, maximum cost, "
+"minimum cost and combine all cost"
+msgstr ""
+
+#: settings/asw-common-setting.php:85
+msgid "Based on user selection"
+msgstr ""
+
+#: settings/asw-common-setting.php:91
+msgid "Maximum Shipping Cost"
+msgstr ""
+
+#: settings/asw-common-setting.php:97
+msgid "Minimum Shipping Cost"
+msgstr ""
+
+#: settings/asw-common-setting.php:107
+msgid "Combine All Shipping Cost"
+msgstr ""
+
+#: settings/asw-common-setting.php:124
+msgid "Custom Shipping Label"
+msgstr ""
+
+#: settings/asw-common-setting.php:125
+msgid "Display custom shipping label at front side."
+msgstr ""
+
+#: settings/asw-common-setting.php:133
+msgid "Display combine shipping labels list in tooltip"
+msgstr ""
+
+#: settings/asw-common-setting.php:134
+msgid "Display combine shipping labels list in tooltip."
+msgstr ""
+
+#: settings/asw-common-setting.php:142
+msgid "Yes"
+msgstr ""
+
+#: settings/asw-common-setting.php:148
+msgid "No"
+msgstr ""
+
+#: settings/asw-common-setting.php:157
+msgid "Hide shipping method when free shipping available"
+msgstr ""
+
+#: settings/asw-common-setting.php:158
+msgid ""
+"You can hide shipping method when any free shipping available from this "
+"plugins shipping."
+msgstr ""
+
+#: settings/asw-common-setting.php:166
+msgid "Select shipping method which you want to hide"
+msgstr ""
+
+#: settings/asw-common-setting.php:167
+msgid ""
+"You can hide shipping method as per your selection when any free shipping "
+"available from this plugins shipping. Leave blank if you want to hide all "
+"other shipping method."
+msgstr ""
+
+#: settings/asw-common-setting.php:198 settings/asw-shipping-settings.php:543
+msgid "Save Changes"
+msgstr ""
+
+#: settings/asw-dashboard.php:11
+msgid "License &amp; Account Settings"
+msgstr ""
+
+#: settings/asw-dashboard.php:21
+msgid "License &amp; Billing"
+msgstr ""
+
+#: settings/asw-dashboard.php:22
+msgid ""
+"Activate or sync your license, cancel your subscription, print invoices, "
+"and manage your account information."
+msgstr ""
+
+#: settings/asw-dashboard.php:36
+msgid "Manage Licence & Billing"
+msgstr ""
+
+#: settings/asw-dashboard.php:53
+msgid "Your Account "
+msgstr ""
+
+#: settings/asw-dashboard.php:55
+msgid "Manage all of your idomit plugins, supscriptions, renewals, and more."
+msgstr ""
+
+#: settings/asw-dashboard.php:58
+msgid "Manage Your Account"
+msgstr ""
+
+#: settings/asw-dashboard.php:65 settings/asw-dashboard.php:75
+msgid "Support"
+msgstr ""
+
+#: settings/asw-dashboard.php:76
+msgid "Get Prompt support."
+msgstr ""
+
+#: settings/asw-dashboard.php:83
+msgid "Submit Ticket"
+msgstr ""
+
+#: settings/asw-dashboard.php:93
+msgid "Documentation"
+msgstr ""
+
+#: settings/asw-dashboard.php:94
+msgid "Read the plugin documentation."
+msgstr ""
+
+#: settings/asw-dashboard.php:101
+msgid "Read Documentation"
+msgstr ""
+
+#: settings/asw-dashboard.php:108
+msgid "Review"
+msgstr ""
+
+#: settings/asw-dashboard.php:109
+msgid ""
+"It would mean a lot to us if you would quickly give our plugin a 5-star "
+"rating. Your Review is very important to us as it helps us to grow more!"
+msgstr ""
+
+#: settings/asw-dashboard.php:113
+msgid "Yes you deserve it!"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:7
+msgid "Plugin Features"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:27
+msgid "Apply shipping Based on User selection"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:35
+msgid "Apply shipping Based on Maximum Shipping Cost"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:43
+msgid "Apply shipping Based on Minimum Shipping Cost"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:51
+msgid "Apply shipping cost based on Per order"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:59
+msgid "Shipping Method Based on Simple Products"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:67
+msgid "Shipping Method Based on Category"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:75
+msgid "Shipping Method Based on Tags"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:83
+msgid "Shipping Method Based on Country"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:91
+msgid "Shipping Method Based on State"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:99
+msgid "Shipping Method Based on Zone"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:107
+msgid "Shipping Method Based on Total Cart Qty"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:115
+msgid "Shipping Method Based on Cart Subtotal(After Coupon Discount)"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:123
+msgid "Shipping Method Based on User"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:131
+msgid ""
+"Setup Advanced Cost Based On Total cart with Minimum and Maximum "
+"Quantities, Subtotal without tax and discount"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:140
+msgid "Apply shipping cost based on Per Item (Qty)"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:148
+msgid "Apply shipping cost based on Per Line Item (Cart Item)"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:156
+msgid "Apply shipping cost based on Per Class"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:164
+msgid "Allow free shipping based on products and selected products total"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:172
+msgid "Allow free shipping based on cart subtotal"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:180
+msgid "Add shipping Estimated Delivery Text"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:188
+msgid "Apply shipping based on Shipping start and end Date"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:196
+msgid "Apply shipping based on Shipping start and end time"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:204
+msgid "Shipping Method Based on Skus"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:212
+msgid "Shipping Method Based on Variable Products"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:220
+msgid "Shipping Method Based on City"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:228
+msgid "Shipping Method Based on Postcode"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:236
+msgid "Shipping Method Based on Total Cart Weight"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:244
+msgid "Shipping Method Based on Total Cart Width"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:252
+msgid "Shipping Method Based on Total Cart Height"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:260
+msgid "Shipping Method Based on Total Cart Length"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:268
+msgid "Shipping Method Based on Cart Subtotal With Ex. Tax"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:276
+msgid "Shipping Method Based on Cart Subtotal With Inc. Tax"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:284
+msgid "Shipping Method Based on Coupon"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:292
+msgid "Shipping Method Based on Contains Shipping Class"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:300
+msgid "Shipping Method Based on User Role"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:308
+msgid ""
+"Setup Advanced Cost Based On Total cart with Minimum and Maximum \r\n"
+"\t\t\t\t\tSubtotal with tax, Subtotal with discount, Subtotal with tax and "
+"discount, Weight, Width, Height, Length"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:317
+msgid ""
+"Setup Advanced Cost Based On Simple Products with Minimum and Maximum "
+"Quantities, Subtotal without tax and discount"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:325
+msgid ""
+"Setup Advanced Cost Based On Simple Products with Minimum and Maximum \r\n"
+"\t\t\t\t\tSubtotal with tax, Subtotal with discount, Subtotal with tax and "
+"discount, Weight, Width, Height, Length"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:334
+msgid ""
+"Setup Advanced Cost Based On Variable Products with Minimum and Maximum "
+"Quantities, Subtotal without tax and discount"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:342
+msgid ""
+"Setup Advanced Cost Based On Variable Products with Minimum and Maximum \r\n"
+"\t\t\t\t\tSubtotal with tax, Subtotal with discount, Subtotal with tax and "
+"discount, Weight, Width, Height, Length"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:351
+msgid ""
+"Setup Advanced Cost Based On Category with Minimum and Maximum Quantities, "
+"Subtotal without tax and discount"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:359
+msgid ""
+"Setup Advanced Cost Based On Category with Minimum and Maximum \r\n"
+"\t\t\t\t\tSubtotal with tax, Subtotal with discount, Subtotal with tax and "
+"discount, Weight, Width, Height, Length"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:368
+msgid ""
+"Setup Advanced Cost Based On Shipping Class with Minimum and Maximum "
+"Quantities, Subtotal without tax and discount"
+msgstr ""
+
+#: settings/asw-free-pro-section.php:376
+msgid ""
+"Setup Advanced Cost Based On Shipping Class with Minimum and Maximum \r\n"
+"\t\t\t\t\tSubtotal with tax, Subtotal with discount, Subtotal with tax and "
+"discount, Weight, Width, Height, Length"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:58
+msgid "Edit Shipping Method"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:76
+msgid "Add Shipping Method"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:82
+msgid "Save changes"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:116
+msgid "Back to Shipping List"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:123
+msgid "Shipping Status"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:124
+msgid ""
+"You can enable or disable shipping method. If shipping method will disable "
+"then it will not apply."
+msgstr ""
+
+#: settings/asw-shipping-settings.php:132
+msgid "Shipping title"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:134
+msgid "This name will be display as shipping at front side."
+msgstr ""
+
+#: settings/asw-shipping-settings.php:137
+msgid "Enter shipping title"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:143
+msgid "Shipping cost"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:155
+msgid ""
+"You can add shipping method dynamically based on qty and subtotal using "
+"below rules."
+msgstr ""
+
+#: settings/asw-shipping-settings.php:161
+msgid "Note: "
+msgstr ""
+
+#: settings/asw-shipping-settings.php:162
+msgid "Below rules will work for total cart qty."
+msgstr ""
+
+#: settings/asw-shipping-settings.php:170
+msgid "1. {qty}"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:171
+msgid "If total cart qty is 2, then it will add shipping cost 2."
+msgstr ""
+
+#: settings/asw-shipping-settings.php:176
+msgid "View More"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:182
+msgid "2. {qty}*2"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:183
+msgid ""
+"If total cart qty is 5, then it will calculate 5*2 = 10. So, it will add "
+"shipping cost 10."
+msgstr ""
+
+#: settings/asw-shipping-settings.php:191
+msgid "3. {qty}>2?10:20"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:192
+msgid ""
+"If total cart qty is more than 2, then it will add shipping cost 10, other "
+"wise it will add 20."
+msgstr ""
+
+#: settings/asw-shipping-settings.php:200
+msgid "4. {qty}>=2?10:20"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:201
+msgid ""
+"If total cart qty is equal or more than 2, then it will add shipping cost "
+"10, other wise it will add 20."
+msgstr ""
+
+#: settings/asw-shipping-settings.php:209
+msgid "5. {qty}<2?10:20"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:210
+msgid ""
+"If total cart qty is less than 2, then it will add shipping cost 10, other "
+"wise it will add 20."
+msgstr ""
+
+#: settings/asw-shipping-settings.php:218
+msgid "6. {qty}<=2?10:20"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:219
+msgid ""
+"If total cart qty is equal or less than 2, then it will add shipping cost "
+"10, other wise it will add 20."
+msgstr ""
+
+#: settings/asw-shipping-settings.php:227
+msgid "Note:"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:228
+msgid ""
+"Above same rule will work with subtotal. For the subtotal you can use code "
+"like - <strong>{subtotal}</strong>,  <strong>{subtotal}*2</strong> or same "
+"as per <strong>{qty}</strong>"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:233
+msgid "View Less"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:244
+msgid "Is Amount Taxable?"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:245
+msgid ""
+"If yes, then shipping price will be calculated based on tax otherwise this "
+"will apply based on base price."
+msgstr ""
+
+#: settings/asw-shipping-settings.php:249
+msgid "None"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:256
+msgid "General Cost Per"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:257
+msgid ""
+"This will apply shipping cost based on selection. Like: 1. Per Order - It "
+"will apply basic cost. 2. Per Item - It will apply based on cart items. 3. "
+"Per Line Item - It will apply based on cart line items. 4. Per Class - It "
+"will apply based on shipping class in cart."
+msgstr ""
+
+#: settings/asw-shipping-settings.php:261
+msgid "No Cost"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:262
+msgid "Per Order"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:267
+#: settings/asw-shipping-settings.php:274
+msgid "Per Item (Qty)"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:268
+#: settings/asw-shipping-settings.php:275
+msgid "Per Line Item (Cart Item)"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:269
+#: settings/asw-shipping-settings.php:276
+msgid "Per Class"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:289
+msgid "Allow Free Shipping"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:290
+msgid "You can allow this shipping as free shipping based on your requirement"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:303
+msgid "Free Shipping title"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:304
+msgid "This name will be display as shipping if free shipping available."
+msgstr ""
+
+#: settings/asw-shipping-settings.php:307
+msgid "Enter free shipping title"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:325
+#: settings/asw-shipping-settings.php:388
+msgid "Condition for the free shipping"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:326
+#: settings/asw-shipping-settings.php:389
+msgid "Select condition to allow free shipping."
+msgstr ""
+
+#: settings/asw-shipping-settings.php:330
+#: settings/asw-shipping-settings.php:393
+msgid "Based on Product"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:331
+#: settings/asw-shipping-settings.php:394
+msgid "Based on Cart Subtotal"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:347
+#: settings/asw-shipping-settings.php:410
+msgid "Select Product"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:372
+#: settings/asw-shipping-settings.php:375
+#: settings/asw-shipping-settings.php:435
+#: settings/asw-shipping-settings.php:438
+msgid "Amount to allow free shipping"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:458
+msgid "Tooltip Description"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:459
+msgid "This tooltip description will display at front side for shipping method."
+msgstr ""
+
+#: settings/asw-shipping-settings.php:462
+msgid "Enter tooltip description"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:468
+msgid "Estimated Delivery Text"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:469
+msgid "It will display text after shipping"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:472
+msgid "Enter estimated delivery time"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:478
+msgid "Shipping Date"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:479
+msgid "Select date to start and end shipping."
+msgstr ""
+
+#: settings/asw-shipping-settings.php:483
+#: settings/asw-shipping-settings.php:499
+msgid "From"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:484
+msgid "Shipping start date"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:485
+#: settings/asw-shipping-settings.php:501
+msgid "To"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:486
+msgid "Shipping end date"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:494
+msgid "Shipping Time"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:495
+msgid "Select time to start and end shipping."
+msgstr ""
+
+#: settings/asw-shipping-settings.php:500
+msgid "Shipping start time"
+msgstr ""
+
+#: settings/asw-shipping-settings.php:502
+msgid "Shipping end time"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Advanced Easy Shipping For WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://woocommerce.com/products/advanced-easy-shipping-for-woocommerce/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Advanced Easy Shipping For WooCommerce Plugins allows you to easy configure "
+"advanced shipping conditions with conditional logic!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "idomit"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://idomit.com/"
+msgstr ""

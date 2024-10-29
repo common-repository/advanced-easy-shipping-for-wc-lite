@@ -1,0 +1,63 @@
+** Advanced Easy Shipping For WooCommerce **
+2022-10-14 - version 3.0.9
+* Admin design Update
+* Set up specific categories based WooCommerce extra shipping method.
+* Set up specific tags based WooCommerce extra shipping method.
+* Set up specific state based WooCommerce extra shipping method.
+* Set up specific zone based WooCommerce extra shipping method.
+* Set up WooCommerce extra shipping method based on total cart qty.
+* Set up specific user based WooCommerce extra shipping method.
+* Compatible with WooCommerce 7.0.0
+* Compatible with WordPress 6.0.x
+
+2022-08-19 - version 3.0.8
+* Fixed shipping issue
+* Compatible with WooCommerce 6.8.x
+
+2022-08-19 - version 3.0.7
+* Fixed - duplicate function name
+
+2022-08-18 - version 3.0.6
+* Compatible with WooCommerce 6.7.x
+* Compatible with WordPress 6.0.x
+
+2022-05-30 - version 3.0.5
+* Compatible with WooCommerce 6.5.1
+* Compatible with WordPress 6.0
+
+2022-04-02 - version 3.0.4
+* New - Allow shipping based on payment method
+* Compatible with WooCommerce 6.3.1
+* Compatible with WordPress 5.9.2
+
+2021-10-25 - version 3.0.3
+* Fixed - Tooltip description issue with other language
+* Fixed - Allow free shipping issue
+* Compatible with WooCommerce 5.8.0
+
+2021-09-15 - version 3.0.2
+* Fixed - Save button not working
+* Compatible with WordPress 5.8.1
+
+2021-09-11 - version 3.0.1
+* Compatible with WooCommerce 5.6.0
+* Update - Fixed - Allow free shipping issue
+
+2021-08-01 - version 3.0
+* Compatible with WooCommerce 5.5.2
+* Compatible with WordPress 5.8
+* Fixed - CSS tooltip issue
+* New - Add shipping cost dynamically (qty, subtotal )
+* New - Allow free shipping based on cart subtotal and cart products
+
+2021-02-06 - version 2.1
+* Compatible with WooCommerce Product Bundles plugin
+* Compatible with WooCommerce Subscriptions plugin
+* Compatible with WOOCS - WooCommerce Currency Switcher plugin
+* Fixed - Postcode issue
+* Fixed - Single shipping method tooltip issue
+* Compatible with WooCommerce 4.9.x
+* Compatible with WordPress 5.6.x
+
+2020-09-04 - version 2.0
+* Initial release
